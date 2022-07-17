@@ -20,3 +20,7 @@ These are all the platform,languages or libraries used in the Project
 * [Firebase](https://firebase.google.com/)
 * [Figma](https://angular.io/)
 
+
+[Link to Figma design](https://www.figma.com/file/4g5D5rHcOpTlZ7fcr6xvdD/investo?node-id=85%3A232)
+
+![investo_mockup](https://github.com/AnjumanHasan/Investo/blob/master/investo.png)
